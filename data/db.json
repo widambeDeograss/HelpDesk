@@ -1,0 +1,65 @@
+{
+  "Qns": [
+    {
+      "id": 1,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarily down or it may have moved permanently to a new web address. ERR_FAILED "
+    },
+    {
+      "id": 2,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarilydown or it may have moved permanently to a new web address. ERR_FAILED "
+    },
+    {
+      "id": 3,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarilydown or it may have moved permanently to a new web address. ERR_FAILED "
+    },
+    {
+      "id": 4,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarilydown or it may have moved permanently to a new web address. ERR_FAILED "
+    },
+    {
+      "id": 5,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarilydown or it may have moved permanently to a new web address. ERR_FAILED "
+    },
+    {
+      "id": 6,
+      "question": "who was the founder of the company? ",
+      "answer": "This site can’t be reachedThe webpage at https://mui.com/material-ui/react-button/ might be temporarilydown or it may have moved permanently to a new web address. ERR_FAILED "
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "wdambedeo@gmal.com "
+    },
+    {
+      "email": "wdambedeograss@gmal.com",
+      "id": 2
+    },
+    {
+      "email": "caro@gmal.com",
+      "id": 3
+    },
+    {
+      "email": "hhbhbjkbkjbjkbjkbbjbkjkbbjjj",
+      "id": 4
+    }
+  ],
+  "userQuestions": [
+    {
+      "id": 1,
+      "email": "wdambedeo@gmal.com ",
+      "question": "who was the founder of the company? "
+    },
+    {
+      "email": "",
+      "question": "who came up with this ides",
+      "id": 2
+    }
+  ]
+  
+}
